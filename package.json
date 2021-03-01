@@ -1,0 +1,39 @@
+{
+    "name": "algorithms-and-data-structures-js",
+    "version": "0.0.1",
+    "description": "Common Algorithms and Data Structures implemented in JavaScript",
+    "scripts": {
+        "test": "mocha ./src/**/*.test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mykola-rykov/algorithms-and-data-structures-js"
+    },
+    "keywords": [
+        "computer-science",
+        "cs",
+        "algorithms",
+        "data-structures",
+        "javascript",
+        "algorithm",
+        "javascript-algorithms",
+        "sorting-algorithms",
+        "graph",
+        "tree",
+        "dijkstra",
+        "interview",
+        "interview-preparation"
+    ],
+    "author": "Mykola Rykov (https://www.linkedin.com/in/mykola-rykov/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mykola-rykov/algorithms-and-data-structures-js/issues"
+    },
+    "homepage": "https://github.com/mykola-rykov/algorithms-and-data-structures-js#readme",
+    "devDependencies": {
+        "chai": "^4.3.0",
+        "esm": "^3.2.25",
+        "mocha": "^8.3.0"
+    },
+    "dependencies": {}
+}
